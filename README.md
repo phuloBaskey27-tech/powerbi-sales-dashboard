@@ -1,4 +1,4 @@
-# Business Sales Analysis
+<img width="1413" height="832" alt="image" src="https://github.com/user-attachments/assets/eb93664a-3cf6-47a6-813e-518decf78afc" /># Business Sales Analysis
 A data analytics project that combines Python-based data processing with Power BI dashboard visualization to analyze business sales performance across different regions and product categories.
 
 
@@ -15,6 +15,7 @@ This project analyzes sales performance metrics including total revenue, profita
 - **Dashboard Visualization**: Built an interactive Power BI dashboard to present key business insights and KPIs
 
 ## Project Structure
+![Dashboard Screenshot](dashboard.png)
 
 ### Files
 
