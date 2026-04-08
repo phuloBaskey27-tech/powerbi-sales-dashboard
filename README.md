@@ -1,4 +1,4 @@
-<img width="1413" height="832" alt="image" src="https://github.com/user-attachments/assets/eb93664a-3cf6-47a6-813e-518decf78afc" /># Business Sales Analysis
+# Business Sales Analysis
 A data analytics project that combines Python-based data processing with Power BI dashboard visualization to analyze business sales performance across different regions and product categories.
 
 
@@ -91,9 +91,9 @@ Name: Sales, dtype: float64
 
 ## Author
 
-Business Sales Analysis Project
+PHULO BASKEY
 
-## License
+
 
 Open source
 
