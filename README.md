@@ -1,10 +1,10 @@
 # Business Sales Analysis
+A data analytics project that combines Python-based data processing with Power BI dashboard visualization to analyze business sales performance across different regions and product categories.
 
-A Python-based data analysis project that processes and visualizes business sales data across different regions and product categories.
 
 ## Overview
 
-This project analyzes sales performance metrics including total revenue, profitability, and regional sales distribution. It processes order-level transaction data and generates insights through statistical summaries and visualizations.
+This project analyzes sales performance metrics including total revenue, profitability, and regional sales distribution. It processes order-level transaction data and generates insights through statistical summaries, Python visualizations, and an interactive Power BI dashboard.
 
 ## Features
 
@@ -12,6 +12,7 @@ This project analyzes sales performance metrics including total revenue, profita
 - **Regional Analysis**: Break down sales performance by geographic region
 - **Data Visualization**: Generate bar charts to compare sales across regions
 - **Data Processing**: Load and analyze structured CSV data using pandas
+- **Dashboard Visualization**: Built an interactive Power BI dashboard to present key business insights and KPIs
 
 ## Project Structure
 
@@ -20,6 +21,7 @@ This project analyzes sales performance metrics including total revenue, profita
 - `sales_analysis.py` - Main Python script for data analysis and visualization
 - `sales_data.csv` - Sales transaction dataset (Order_ID, Order_Date, Region, Category, Sub_Category, Customer_Segment, Sales, Profit, Quantity)
 - `Readme.md` - Project documentation
+- Business_Sales_Dashboard.pbix - Power BI dashboard file for interactive data visualization
 
 ## Data Description
 
@@ -42,6 +44,7 @@ The `sales_data.csv` file contains the following columns:
 - Python 3.x
 - pandas
 - matplotlib
+- Power BI Desktop
 
 ## Installation
 
